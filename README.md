@@ -4,5 +4,5 @@ instagram
 tel
 @bihava_bedoon_maghsad
 
-fon number
+phon number
 +98 933 944 80 70
